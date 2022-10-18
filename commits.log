@@ -1,0 +1,98 @@
+commit 38e3b4c3d3cf9864b49c324d0d5bf8023a8cd7ff
+Author: Andres Caceres <andrescacerescoronel@gmail.com>
+Date:   Fri Oct 14 20:31:15 2022 -0500
+
+    Agregando 2 párrafos.
+
+commit 3ff0d7c4077223b9646cf3e21b19c3e370c7bf9b
+Merge: 1b78d9a a746029
+Author: Andres Caceres <andrescacerescoronel@gmail.com>
+Date:   Fri Oct 14 20:23:07 2022 -0500
+
+    Resolviendo conflicto en estaciones del año y fechas de inicio.
+
+commit 1b78d9ab8201c7678f419682d98d6e272a788534
+Author: Andres Caceres <andrescacerescoronel@gmail.com>
+Date:   Fri Oct 14 18:49:48 2022 -0500
+
+    Agregando estaciones del año con fecha de incio
+
+commit a7460297b2f5a4c3e584144108a8b78dfa9b4e26
+Author: Andres Caceres <andrescacerescoronel@gmail.com>
+Date:   Fri Oct 14 18:49:48 2022 -0500
+
+    agregando las estaciones del año
+
+commit 5a014297639d0b3790d1f2be5e2d70c502fb50d8
+Merge: f46876b 589ecbb
+Author: Andres Caceres <andrescacerescoronel@gmail.com>
+Date:   Thu Oct 13 13:52:42 2022 -0500
+
+    Resolviendo conflicto merge main/html en el documento index.html
+
+commit 589ecbb05e1e309a1447d468c181f2c79237e461
+Author: Andres Caceres <andrescacerescoronel@gmail.com>
+Date:   Thu Oct 13 13:28:49 2022 -0500
+
+    Agregando index.js al index.html
+
+commit f46876bbf97743047c1b9dfeb795697412350d14
+Author: Andres Caceres <andrescacerescoronel@gmail.com>
+Date:   Thu Oct 13 13:21:37 2022 -0500
+
+    Agregando style.css al index.html
+
+commit 76423bcab246af6d7bcaee4ad562321cade7290a
+Merge: f6794d2 f0cfa8f
+Author: Andres Caceres <andrescacerescoronel@gmail.com>
+Date:   Thu Oct 13 11:17:30 2022 -0500
+
+    Merge branch 'js'
+
+commit f0cfa8f4ea96fd92388ba84dce90347c99c36a4a
+Author: Andres Caceres <andrescacerescoronel@gmail.com>
+Date:   Wed Oct 12 12:56:57 2022 -0500
+
+    Creando index.js
+
+commit f6794d2af117b96b0c903ee21b78e1e7518aa43d
+Author: Andres Caceres <andrescacerescoronel@gmail.com>
+Date:   Wed Oct 12 12:44:17 2022 -0500
+
+    Creando style.css
+
+commit 9b9b0f55189b89cb66f439305880782aa936b14a
+Author: Andres Caceres <andrescacerescoronel@gmail.com>
+Date:   Wed Oct 12 12:19:47 2022 -0500
+
+    Creando index.html
+
+commit c3fd0c594a5675543d40f8e52545458ecc35a636
+Author: Andres Caceres <andrescacerescoronel@gmail.com>
+Date:   Wed Oct 12 11:08:28 2022 -0500
+
+    Ignorando archivos .exe
+
+commit 689b4c3d87eea66bd9db94e6a16bc5c0705dfddc
+Author: andrescaceresdev <115122080+andrescaceresdev@users.noreply.github.com>
+Date:   Fri Oct 7 14:46:00 2022 -0500
+
+    Creando licencia del repositorio
+
+commit 8be1d3a811d1b5c8931099c0b6f1b1fcd50a4883
+Author: Andres Caceres <andrescacerescoronel@gmail.com>
+Date:   Fri Oct 7 12:48:04 2022 -0500
+
+    Agregando más contenido al README
+
+commit 65b43de820fd28595078fbb65d0c7a15f7b7e53e
+Author: Andres Caceres <andrescacerescoronel@gmail.com>
+Date:   Fri Oct 7 11:49:38 2022 -0500
+
+    Agregando contenido inicial al README
+
+commit 8cb1b8a52d773d3979a217cbe17ecfeb048485f1
+Author: Andres Caceres <andrescacerescoronel@gmail.com>
+Date:   Fri Oct 7 11:33:34 2022 -0500
+
+    Primer commit
